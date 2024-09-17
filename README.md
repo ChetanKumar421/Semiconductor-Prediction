@@ -20,3 +20,9 @@ This project uses machine learning models to predict the pass/fail yield of semi
 ## Instructions
 
 1. Install dependencies using:
+- pip install -r requirements.txt
+
+2. Run the Jupyter notebook to train the model and view the results.
+
+## Project Report
+See the attached project report for detailed analysis and results.
